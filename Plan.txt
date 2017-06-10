@@ -1,0 +1,16 @@
+Given a range of dates
+Given days of the week that we have rehearsal
+Given actors availability
+Given which actors are in which scenes
+
+Give back a list of what scenes can be rehearsed each day
+
+-1. Create a program that takes a range of dates and days of the week, and returns a list of all the dates that
+ fall on the given days of the week
+-2. Given an actor's availability, list that the actor is available on those dates
+-3. Given the scenes that an actor is in, list that the scene can be rehearsed on those dates
+4. Expand to a list of actors & availability
+5. Expand to a list of scenes
+6. Add ability to add an actor
+7. Add ability to add a conflict on a day of the week
+8. Add ability to add a conflict on a specific date
